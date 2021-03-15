@@ -41,11 +41,11 @@
 }
 
 #myCarousel {
-    background-color: red;
+    background-color: white;
 }
 
 #myCarousel img {
-    height: 350px;
+    width: 50%;
 }
 
 .carousel-inner p {
